@@ -116,3 +116,14 @@ p{
 .press-image{
     width: 20%;
 }
+
+/* Pricing */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 5% 2%;
+}
